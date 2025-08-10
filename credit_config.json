@@ -1,9 +1,8 @@
 {
-    "empty_message": "❌ Maaf, Stream 2 Belum ada, cek kembali nanti!",
-    "folder_link": "https://trakteer.id/BangsaBacol/shop?category=unlock-vip-key",
-    "telegram_grup": "https://trakteer.id/BangsaBacol/tip",
-    "telegram_grup2": "https://t.me/BANGSABACOLGROUP",
-    "telegram_join": "https://t.me/BangsaBacol",
-    "logo_image": "Img/Watermark Bangsa Bacol.webp",
-    "preview_video": "preview_video.mp4",
+  "folder_link": "https://trakteer.id/BangsaBacol/shop?category=unlock-vip-key",
+  "telegram_grup": "https://trakteer.id/BangsaBacol/tip",
+  "telegram_grup2": "https://t.me/BANGSABACOLGROUP",
+  "telegram_join": "https://t.me/BangsaBacol",
+  "logo_image": "https://raw.githubusercontent.com/BangsaBacolBot/ads-server/main/assets/Watermark%20Bangsa%20Bacol.webp",
+  "preview_video": "https://raw.githubusercontent.com/BangsaBacolBot/ads-server/main/assets/Preview_video.mp4"
 }
