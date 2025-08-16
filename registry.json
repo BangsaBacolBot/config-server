@@ -1,0 +1,5 @@
+{
+  "credit_config_url": "https://raw.githubusercontent.com/BangsaBacolBot/config-server/main/credit_config.json",
+  "ads_config_url": "https://raw.githubusercontent.com/BangsaBacolBot/ads-server/main/ads-server.json",
+  "refresh_seconds": 300
+}
